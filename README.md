@@ -1,3 +1,7 @@
+# A todo app created with React for me to learn how to implement React Hooks
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
