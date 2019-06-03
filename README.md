@@ -1,6 +1,8 @@
 # A todo app created with React for me to learn how to implement React Hooks
 <img src="./Screen Shot 2019-06-03 at 10.31.11 AM.png">
 
+<img src="./Screen Shot 2019-06-03 at 10.33.40 AM.png">
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
